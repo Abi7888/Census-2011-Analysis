@@ -1,0 +1,726 @@
+state,pop_type,population,Religion,gender,IND
+PUNJAB,Rural,2305842,hindu,males,29
+PUNJAB,Urban,3378052,hindu,males,29
+CHANDIGARH,Urban,458788,hindu,males,6
+UTTARAKHAND,Rural,2993138,hindu,males,34
+HARYANA,Rural,7524114,hindu,males,12
+HARYANA,Urban,4296968,hindu,males,12
+NCTOFDELHI,Urban,7146027,hindu,males,26
+RAJASTHAN,Rural,24505347,hindu,males,30
+UTTARPRADESH,Rural,67946465,hindu,males,35
+UTTARPRADESH,Urban,15609259,hindu,males,35
+BIHAR,Urban,4927618,hindu,males,5
+SIKKIM,Rural,139660,hindu,males,31
+ARUNACHALPRADESH,Rural,142358,hindu,males,3
+ARUNACHALPRADESH,Urban,82814,hindu,males,3
+NAGALAND,Urban,66398,hindu,males,25
+MANIPUR,Rural,331011,hindu,males,22
+MIZORAM,Rural,4799,hindu,males,24
+MIZORAM,Urban,15214,hindu,males,24
+TRIPURA,Urban,453367,hindu,males,33
+MEGHALAYA,Rural,100081,hindu,males,23
+ASSAM,Rural,8006062,hindu,males,4
+ASSAM,Urban,1790743,hindu,males,4
+WESTBENGAL,Urban,11837125,hindu,males,36
+JHARKHAND,Rural,8445598,hindu,males,16
+ODISHA,Rural,16587340,hindu,males,27
+ODISHA,Urban,3289674,hindu,males,27
+CHHATTISGARH,Urban,2689242,hindu,males,7
+MADHYAPRADESH,Rural,25757448,hindu,males,20
+GUJARAT,Rural,16623861,hindu,males,11
+GUJARAT,Urban,11317316,hindu,males,11
+DAMAN&DIU,Urban,106184,hindu,males,9
+DADRA&NAGARHAVELI,Rural,94496,hindu,males,8
+MAHARASHTRA,Rural,27674324,hindu,males,21
+MAHARASHTRA,Urban,18861538,hindu,males,21
+ANDHRAPRADESH,Urban,11075112,hindu,males,2
+KARNATAKA,Rural,17122399,hindu,males,17
+GOA,Rural,200644,hindu,males,10
+GOA,Urban,298943,hindu,males,10
+LAKSHADWEEP,Urban,1295,hindu,males,19
+KERALA,Rural,4538594,hindu,males,18
+TAMILNADU,Rural,17358731,hindu,males,32
+TAMILNADU,Urban,14356315,hindu,males,32
+PUDUCHERRY,Urban,353757,hindu,males,28
+ANDAMAN&NICOBARISLANDS,Rural,84639,hindu,males,1
+JAMMU&KASHMIR,Rural,1154416,hindu,females,15
+JAMMU&KASHMIR,Urban,425237,hindu,females,15
+HIMACHALPRADESH,Urban,287103,hindu,females,13
+PUNJAB,Rural,2090224,hindu,females,29
+CHANDIGARH,Rural,9226,hindu,females,6
+CHANDIGARH,Urban,370579,hindu,females,6
+UTTARAKHAND,Urban,1095752,hindu,females,34
+HARYANA,Rural,6604423,hindu,females,12
+NCTOFDELHI,Rural,176461,hindu,females,26
+NCTOFDELHI,Urban,6182045,hindu,females,26
+RAJASTHAN,Urban,6313697,hindu,females,30
+UTTARPRADESH,Rural,61998085,hindu,females,35
+BIHAR,Rural,36713239,hindu,females,5
+BIHAR,Urban,4370942,hindu,females,5
+SIKKIM,Urban,44070,hindu,females,31
+ARUNACHALPRADESH,Rural,114369,hindu,females,3
+NAGALAND,Rural,24481,hindu,females,25
+NAGALAND,Urban,43722,hindu,females,25
+MANIPUR,Urban,271916,hindu,females,22
+MIZORAM,Rural,2395,hindu,females,24
+TRIPURA,Rural,1058032,hindu,females,33
+TRIPURA,Urban,442141,hindu,females,33
+MEGHALAYA,Urban,68279,hindu,females,23
+ASSAM,Rural,7693809,hindu,females,4
+WESTBENGAL,Rural,20122168,hindu,females,36
+WESTBENGAL,Urban,11216821,hindu,females,36
+CHHATTISGARH,Rural,9285144,hindu,females,7
+CHHATTISGARH,Urban,2566400,hindu,females,7
+MADHYAPRADESH,Urban,7712226,hindu,females,20
+GUJARAT,Rural,15766680,hindu,females,11
+DAMAN&DIU,Rural,26761,hindu,females,9
+DAMAN&DIU,Urban,56421,hindu,females,9
+DADRA&NAGARHAVELI,Urban,59144,hindu,females,8
+MAHARASHTRA,Rural,26311704,hindu,females,21
+ANDHRAPRADESH,Rural,26331549,hindu,females,2
+ANDHRAPRADESH,Urban,10955516,hindu,females,2
+KARNATAKA,Urban,8516847,hindu,females,17
+GOA,Rural,193500,hindu,females,10
+LAKSHADWEEP,Rural,16,hindu,females,19
+LAKSHADWEEP,Urban,169,hindu,females,19
+KERALA,Urban,4608783,hindu,females,18
+TAMILNADU,Rural,17189531,hindu,females,32
+PUDUCHERRY,Rural,187565,hindu,females,28
+PUDUCHERRY,Urban,365143,hindu,females,28
+ANDAMAN&NICOBARISLANDS,Urban,49390,hindu,females,1
+JAMMU&KASHMIR,Rural,3284844,muslim,males,15
+HIMACHALPRADESH,Rural,67345,muslim,males,13
+HIMACHALPRADESH,Urban,13418,muslim,males,13
+PUNJAB,Urban,140710,muslim,males,29
+CHANDIGARH,Rural,805,muslim,males,6
+UTTARAKHAND,Rural,414079,muslim,males,34
+UTTARAKHAND,Urban,325978,muslim,males,34
+HARYANA,Urban,192468,muslim,males,12
+NCTOFDELHI,Rural,15703,muslim,males,26
+RAJASTHAN,Rural,1626309,muslim,males,30
+RAJASTHAN,Urban,1567221,muslim,males,30
+UTTARPRADESH,Urban,7459809,muslim,males,35
+BIHAR,Rural,7817335,muslim,males,5
+SIKKIM,Rural,2683,muslim,males,31
+SIKKIM,Urban,3853,muslim,males,31
+ARUNACHALPRADESH,Urban,8338,muslim,males,3
+NAGALAND,Rural,12723,muslim,males,25
+MANIPUR,Rural,78777,muslim,males,22
+MANIPUR,Urban,41627,muslim,males,22
+MIZORAM,Urban,5935,muslim,males,24
+TRIPURA,Rural,137112,muslim,males,33
+MEGHALAYA,Rural,58804,muslim,males,23
+MEGHALAYA,Urban,9023,muslim,males,23
+ASSAM,Urban,411052,muslim,males,4
+WESTBENGAL,Rural,9784832,muslim,males,36
+JHARKHAND,Rural,1765830,muslim,males,16
+JHARKHAND,Urban,701389,muslim,males,16
+ODISHA,Urban,213698,muslim,males,27
+CHHATTISGARH,Rural,79398,muslim,males,7
+MADHYAPRADESH,Rural,866891,muslim,males,20
+MADHYAPRADESH,Urban,1587941,muslim,males,20
+GUJARAT,Urban,1962725,muslim,males,11
+DAMAN&DIU,Rural,1485,muslim,males,9
+DADRA&NAGARHAVELI,Rural,2085,muslim,males,8
+DADRA&NAGARHAVELI,Urban,5616,muslim,males,8
+MAHARASHTRA,Urban,5004010,muslim,males,21
+ANDHRAPRADESH,Rural,1424322,muslim,males,2
+KARNATAKA,Rural,1459151,muslim,males,17
+KARNATAKA,Urban,2548720,muslim,males,17
+GOA,Urban,52921,muslim,males,10
+LAKSHADWEEP,Rural,6893,muslim,males,19
+KERALA,Rural,2004022,muslim,males,18
+KERALA,Urban,2172233,muslim,males,18
+TAMILNADU,Urban,1612809,muslim,males,32
+PUDUCHERRY,Rural,6362,muslim,males,28
+ANDAMAN&NICOBARISLANDS,Rural,7979,muslim,males,1
+ANDAMAN&NICOBARISLANDS,Urban,9322,muslim,males,1
+JAMMU&KASHMIR,Urban,1067082,muslim,females,15
+HIMACHALPRADESH,Rural,60556,muslim,females,13
+PUNJAB,Rural,132001,muslim,females,29
+PUNJAB,Urban,115954,muslim,females,29
+HARYANA,Rural,677017,muslim,females,12
+HARYANA,Urban,164298,muslim,females,12
+NCTOFDELHI,Urban,981310,muslim,females,26
+RAJASTHAN,Rural,1535548,muslim,females,30
+UTTARPRADESH,Rural,11748552,muslim,females,35
+UTTARPRADESH,Urban,6868101,muslim,females,35
+BIHAR,Urban,1134750,muslim,females,5
+SIKKIM,Rural,975,muslim,females,31
+ARUNACHALPRADESH,Rural,5273,muslim,females,3
+ARUNACHALPRADESH,Urban,6219,muslim,females,3
+NAGALAND,Urban,10152,muslim,females,25
+MANIPUR,Rural,77643,muslim,females,22
+MIZORAM,Rural,2934,muslim,females,24
+MIZORAM,Urban,2348,muslim,females,24
+TRIPURA,Urban,22603,muslim,females,33
+MEGHALAYA,Rural,56237,muslim,females,23
+ASSAM,Rural,4824877,muslim,females,4
+ASSAM,Urban,391075,muslim,females,4
+WESTBENGAL,Urban,2652938,muslim,females,36
+JHARKHAND,Rural,1680443,muslim,females,16
+ODISHA,Rural,248762,muslim,females,27
+ODISHA,Urban,196916,muslim,females,27
+CHHATTISGARH,Urban,174022,muslim,females,7
+MADHYAPRADESH,Rural,816792,muslim,females,20
+GUJARAT,Rural,1004690,muslim,females,11
+GUJARAT,Urban,1834850,muslim,females,11
+DAMAN&DIU,Urban,6785,muslim,females,9
+DADRA&NAGARHAVELI,Rural,1353,muslim,females,8
+MAHARASHTRA,Rural,1711690,muslim,females,21
+MAHARASHTRA,Urban,4470335,muslim,females,21
+ANDHRAPRADESH,Urban,2581521,muslim,females,2
+KARNATAKA,Rural,1424637,muslim,females,17
+GOA,Rural,9567,muslim,females,10
+GOA,Urban,48183,muslim,females,10
+LAKSHADWEEP,Urban,24229,muslim,females,19
+KERALA,Rural,2247765,muslim,females,18
+TAMILNADU,Rural,507449,muslim,females,32
+TAMILNADU,Urban,1622848,muslim,females,32
+PUDUCHERRY,Urban,32336,muslim,females,28
+ANDAMAN&NICOBARISLANDS,Rural,7145,muslim,females,1
+JAMMU&KASHMIR,Rural,9591,christians,males,15
+HIMACHALPRADESH,Rural,4426,christians,males,13
+HIMACHALPRADESH,Urban,2418,christians,males,13
+PUNJAB,Urban,55156,christians,males,29
+CHANDIGARH,Rural,82,christians,males,6
+UTTARAKHAND,Rural,8703,christians,males,34
+UTTARAKHAND,Urban,10736,christians,males,34
+HARYANA,Urban,16930,christians,males,12
+NCTOFDELHI,Rural,580,christians,males,26
+RAJASTHAN,Rural,23643,christians,males,30
+RAJASTHAN,Urban,25244,christians,males,30
+UTTARPRADESH,Urban,86987,christians,males,35
+BIHAR,Rural,50483,christians,males,5
+SIKKIM,Rural,23103,christians,males,31
+SIKKIM,Urban,7187,christians,males,31
+ARUNACHALPRADESH,Urban,33588,christians,males,3
+NAGALAND,Rural,668171,christians,males,25
+MANIPUR,Rural,540712,christians,males,22
+MANIPUR,Urban,54766,christians,males,22
+MIZORAM,Urban,263255,christians,males,24
+TRIPURA,Rural,77511,christians,males,33
+MEGHALAYA,Rural,911129,christians,males,23
+MEGHALAYA,Urban,189363,christians,males,23
+ASSAM,Urban,31305,christians,males,4
+WESTBENGAL,Rural,243900,christians,males,36
+JHARKHAND,Rural,592355,christians,males,16
+JHARKHAND,Urban,107547,christians,males,16
+ODISHA,Urban,91254,christians,males,27
+CHHATTISGARH,Rural,176500,christians,males,7
+MADHYAPRADESH,Rural,44309,christians,males,20
+MADHYAPRADESH,Urban,60988,christians,males,20
+GUJARAT,Urban,78440,christians,males,11
+DAMAN&DIU,Rural,86,christians,males,9
+DADRA&NAGARHAVELI,Rural,1409,christians,males,8
+DADRA&NAGARHAVELI,Urban,1146,christians,males,8
+MAHARASHTRA,Urban,473894,christians,males,21
+ANDHRAPRADESH,Rural,244039,christians,males,2
+KARNATAKA,Rural,153269,christians,males,17
+KARNATAKA,Urban,404167,christians,males,17
+GOA,Urban,109118,christians,males,10
+LAKSHADWEEP,Rural,27,christians,males,19
+KERALA,Rural,1838436,christians,males,18
+KERALA,Urban,1155345,christians,males,18
+TAMILNADU,Urban,1381299,christians,males,32
+PUDUCHERRY,Rural,5337,christians,males,28
+ANDAMAN&NICOBARISLANDS,Rural,32639,christians,males,1
+ANDAMAN&NICOBARISLANDS,Urban,9108,christians,males,1
+JAMMU&KASHMIR,Urban,8177,christians,females,15
+HIMACHALPRADESH,Rural,3655,christians,females,13
+PUNJAB,Rural,116092,christians,females,29
+PUNJAB,Urban,50097,christians,females,29
+CHANDIGARH,Urban,4183,christians,females,6
+UTTARAKHAND,Rural,8043,christians,females,34
+HARYANA,Rural,8132,christians,females,12
+HARYANA,Urban,16056,christians,females,12
+UTTARPRADESH,Rural,89252,christians,females,35
+UTTARPRADESH,Urban,84358,christians,females,35
+BIHAR,Urban,16007,christians,females,5
+SIKKIM,Rural,22575,christians,females,31
+ARUNACHALPRADESH,Rural,176972,christians,females,3
+ARUNACHALPRADESH,Urban,35964,christians,females,3
+NAGALAND,Urban,215057,christians,females,25
+MANIPUR,Rural,526691,christians,females,22
+MIZORAM,Rural,206189,christians,females,24
+MIZORAM,Urban,273678,christians,females,24
+TRIPURA,Urban,3743,christians,females,33
+MEGHALAYA,Rural,906290,christians,females,23
+ASSAM,Rural,546824,christians,females,4
+ASSAM,Urban,31847,christians,females,4
+WESTBENGAL,Urban,85908,christians,females,36
+JHARKHAND,Rural,603023,christians,females,16
+ODISHA,Rural,495376,christians,females,27
+ODISHA,Urban,95353,christians,females,27
+CHHATTISGARH,Urban,69229,christians,females,7
+MADHYAPRADESH,Rural,44816,christians,females,20
+GUJARAT,Rural,81049,christians,females,11
+GUJARAT,Urban,75370,christians,females,11
+DAMAN&DIU,Urban,1335,christians,females,9
+DADRA&NAGARHAVELI,Rural,1471,christians,females,8
+MAHARASHTRA,Rural,56950,christians,females,21
+MAHARASHTRA,Urban,491207,christians,females,21
+ANDHRAPRADESH,Urban,322806,christians,females,2
+KARNATAKA,Rural,156150,christians,females,17
+GOA,Rural,72101,christians,females,10
+GOA,Urban,122065,christians,females,10
+LAKSHADWEEP,Urban,31,christians,females,19
+KERALA,Rural,1917228,christians,females,18
+TAMILNADU,Rural,808502,christians,females,32
+TAMILNADU,Urban,1438416,christians,females,32
+PUDUCHERRY,Urban,35665,christians,females,28
+ANDAMAN&NICOBARISLANDS,Rural,30146,christians,females,1
+JAMMU&KASHMIR,Rural,65442,sikh,males,15
+HIMACHALPRADESH,Rural,29888,sikh,males,13
+HIMACHALPRADESH,Urban,11606,sikh,males,13
+PUNJAB,Urban,1921638,sikh,males,29
+CHANDIGARH,Rural,2251,sikh,males,6
+UTTARAKHAND,Rural,93798,sikh,males,34
+UTTARAKHAND,Urban,29781,sikh,males,34
+HARYANA,Urban,174163,sikh,males,12
+NCTOFDELHI,Rural,2105,sikh,males,26
+RAJASTHAN,Rural,371222,sikh,males,30
+RAJASTHAN,Urban,88184,sikh,males,30
+UTTARPRADESH,Urban,113259,sikh,males,35
+BIHAR,Rural,6255,sikh,males,5
+SIKKIM,Rural,1477,sikh,males,31
+SIKKIM,Urban,115,sikh,males,31
+ARUNACHALPRADESH,Urban,1482,sikh,males,3
+NAGALAND,Rural,999,sikh,males,25
+MANIPUR,Rural,513,sikh,males,22
+MANIPUR,Urban,451,sikh,males,22
+MIZORAM,Urban,154,sikh,males,24
+TRIPURA,Rural,543,sikh,males,33
+MEGHALAYA,Rural,376,sikh,males,23
+MEGHALAYA,Urban,1264,sikh,males,23
+ASSAM,Urban,6794,sikh,males,4
+WESTBENGAL,Rural,5261,sikh,males,36
+JHARKHAND,Rural,2652,sikh,males,16
+JHARKHAND,Urban,35537,sikh,males,16
+ODISHA,Urban,8890,sikh,males,27
+CHHATTISGARH,Rural,3088,sikh,males,7
+MADHYAPRADESH,Rural,29484,sikh,males,20
+MADHYAPRADESH,Urban,50857,sikh,males,20
+GUJARAT,Urban,24981,sikh,males,11
+DAMAN&DIU,Rural,2,sikh,males,9
+DADRA&NAGARHAVELI,Rural,32,sikh,males,8
+DADRA&NAGARHAVELI,Urban,100,sikh,males,8
+MAHARASHTRA,Urban,104071,sikh,males,21
+ANDHRAPRADESH,Rural,4329,sikh,males,2
+KARNATAKA,Rural,3753,sikh,males,17
+KARNATAKA,Urban,12202,sikh,males,17
+GOA,Urban,643,sikh,males,10
+LAKSHADWEEP,Rural,0,sikh,males,19
+KERALA,Rural,894,sikh,males,18
+KERALA,Urban,1279,sikh,males,18
+TAMILNADU,Urban,5832,sikh,males,32
+PUDUCHERRY,Rural,50,sikh,males,28
+ANDAMAN&NICOBARISLANDS,Rural,355,sikh,males,1
+ANDAMAN&NICOBARISLANDS,Urban,346,sikh,males,1
+JAMMU&KASHMIR,Urban,50662,sikh,females,15
+HIMACHALPRADESH,Rural,28329,sikh,females,13
+PUNJAB,Rural,5874296,sikh,females,29
+PUNJAB,Urban,1734661,sikh,females,29
+CHANDIGARH,Urban,65022,sikh,females,6
+UTTARAKHAND,Rural,86572,sikh,females,34
+HARYANA,Rural,433632,sikh,females,12
+HARYANA,Urban,156652,sikh,females,12
+NCTOFDELHI,Urban,274203,sikh,females,26
+RAJASTHAN,Rural,336005,sikh,females,30
+UTTARPRADESH,Rural,203943,sikh,females,35
+UTTARPRADESH,Urban,98106,sikh,females,35
+ARUNACHALPRADESH,Rural,269,sikh,females,3
+ARUNACHALPRADESH,Urban,218,sikh,females,3
+NAGALAND,Urban,242,sikh,females,25
+MANIPUR,Rural,222,sikh,females,22
+MIZORAM,Rural,26,sikh,females,24
+MIZORAM,Urban,44,sikh,females,24
+TRIPURA,Urban,98,sikh,females,33
+MEGHALAYA,Rural,237,sikh,females,23
+ASSAM,Rural,3221,sikh,females,4
+ASSAM,Urban,5636,sikh,females,4
+WESTBENGAL,Urban,25016,sikh,females,36
+JHARKHAND,Rural,2281,sikh,females,16
+ODISHA,Rural,2431,sikh,females,27
+ODISHA,Urban,7999,sikh,females,27
+CHHATTISGARH,Urban,30921,sikh,females,7
+MADHYAPRADESH,Rural,25668,sikh,females,20
+GUJARAT,Rural,4204,sikh,females,11
+GUJARAT,Urban,21973,sikh,females,11
+DAMAN&DIU,Urban,76,sikh,females,9
+DADRA&NAGARHAVELI,Rural,13,sikh,females,8
+MAHARASHTRA,Rural,12463,sikh,females,21
+MAHARASHTRA,Urban,92726,sikh,females,21
+ANDHRAPRADESH,Urban,15124,sikh,females,2
+KARNATAKA,Rural,3001,sikh,females,17
+GOA,Rural,140,sikh,females,10
+GOA,Urban,470,sikh,females,10
+LAKSHADWEEP,Urban,2,sikh,females,19
+KERALA,Rural,735,sikh,females,18
+TAMILNADU,Rural,1893,sikh,females,32
+TAMILNADU,Urban,4620,sikh,females,32
+PUDUCHERRY,Urban,94,sikh,females,28
+ANDAMAN&NICOBARISLANDS,Rural,289,sikh,females,1
+JAMMU&KASHMIR,Rural,43724,buddhist,males,15
+HIMACHALPRADESH,Rural,31295,buddhist,males,13
+HIMACHALPRADESH,Urban,8938,buddhist,males,13
+PUNJAB,Urban,5086,buddhist,males,29
+CHANDIGARH,Rural,3,buddhist,males,6
+UTTARAKHAND,Rural,4351,buddhist,males,34
+UTTARAKHAND,Urban,4559,buddhist,males,34
+HARYANA,Urban,2537,buddhist,males,12
+NCTOFDELHI,Rural,86,buddhist,males,26
+RAJASTHAN,Rural,4202,buddhist,males,30
+RAJASTHAN,Urban,2180,buddhist,males,30
+UTTARPRADESH,Urban,16151,buddhist,males,35
+BIHAR,Rural,12398,buddhist,males,5
+SIKKIM,Rural,66943,buddhist,males,31
+SIKKIM,Urban,18359,buddhist,males,31
+ARUNACHALPRADESH,Urban,9375,buddhist,males,3
+NAGALAND,Rural,2385,buddhist,males,25
+MANIPUR,Rural,2407,buddhist,males,22
+MANIPUR,Urban,1247,buddhist,males,22
+MIZORAM,Urban,1089,buddhist,males,24
+TRIPURA,Rural,59126,buddhist,males,33
+MEGHALAYA,Rural,3397,buddhist,males,23
+MEGHALAYA,Urban,1747,buddhist,males,23
+ASSAM,Urban,3757,buddhist,males,4
+WESTBENGAL,Rural,92502,buddhist,males,36
+JHARKHAND,Rural,3783,buddhist,males,16
+JHARKHAND,Urban,1434,buddhist,males,16
+ODISHA,Urban,1097,buddhist,males,27
+CHHATTISGARH,Rural,12065,buddhist,males,7
+MADHYAPRADESH,Rural,67210,buddhist,males,20
+MADHYAPRADESH,Urban,42603,buddhist,males,20
+GUJARAT,Urban,12928,buddhist,males,11
+DAMAN&DIU,Rural,1,buddhist,males,9
+DADRA&NAGARHAVELI,Rural,54,buddhist,males,8
+DADRA&NAGARHAVELI,Urban,302,buddhist,males,8
+MAHARASHTRA,Urban,1576943,buddhist,males,21
+ANDHRAPRADESH,Rural,11976,buddhist,males,2
+KARNATAKA,Rural,40316,buddhist,males,17
+KARNATAKA,Urban,14699,buddhist,males,17
+GOA,Urban,422,buddhist,males,10
+LAKSHADWEEP,Rural,0,buddhist,males,19
+KERALA,Rural,1612,buddhist,males,18
+KERALA,Urban,830,buddhist,males,18
+TAMILNADU,Urban,4260,buddhist,males,32
+PUDUCHERRY,Rural,44,buddhist,males,28
+ANDAMAN&NICOBARISLANDS,Rural,149,buddhist,males,1
+ANDAMAN&NICOBARISLANDS,Urban,39,buddhist,males,1
+JAMMU&KASHMIR,Urban,12403,buddhist,females,15
+HIMACHALPRADESH,Rural,30349,buddhist,females,13
+PUNJAB,Rural,11487,buddhist,females,29
+PUNJAB,Urban,4574,buddhist,females,29
+CHANDIGARH,Urban,562,buddhist,females,6
+UTTARAKHAND,Rural,3478,buddhist,females,34
+HARYANA,Rural,1282,buddhist,females,12
+HARYANA,Urban,2133,buddhist,females,12
+NCTOFDELHI,Urban,8771,buddhist,females,26
+RAJASTHAN,Rural,3889,buddhist,females,30
+UTTARPRADESH,Rural,84954,buddhist,females,35
+UTTARPRADESH,Urban,13907,buddhist,females,35
+BIHAR,Urban,806,buddhist,females,5
+SIKKIM,Rural,63231,buddhist,females,31
+ARUNACHALPRADESH,Rural,72113,buddhist,females,3
+ARUNACHALPRADESH,Urban,9714,buddhist,females,3
+MIZORAM,Rural,44231,buddhist,females,24
+MIZORAM,Urban,1210,buddhist,females,24
+TRIPURA,Urban,4358,buddhist,females,33
+MEGHALAYA,Rural,3150,buddhist,females,23
+ASSAM,Rural,23400,buddhist,females,4
+ASSAM,Urban,3504,buddhist,females,4
+WESTBENGAL,Urban,49253,buddhist,females,36
+JHARKHAND,Rural,2414,buddhist,females,16
+ODISHA,Rural,5607,buddhist,females,27
+ODISHA,Urban,1029,buddhist,females,27
+CHHATTISGARH,Urban,23225,buddhist,females,7
+MADHYAPRADESH,Rural,65209,buddhist,females,20
+GUJARAT,Rural,2890,buddhist,females,11
+GUJARAT,Urban,11373,buddhist,females,11
+DAMAN&DIU,Urban,94,buddhist,females,9
+DADRA&NAGARHAVELI,Rural,28,buddhist,females,8
+MAHARASHTRA,Rural,1674115,buddhist,females,21
+MAHARASHTRA,Urban,1542179,buddhist,females,21
+ANDHRAPRADESH,Urban,6302,buddhist,females,2
+KARNATAKA,Rural,29653,buddhist,females,17
+GOA,Rural,181,buddhist,females,10
+GOA,Urban,340,buddhist,females,10
+LAKSHADWEEP,Urban,1,buddhist,females,19
+KERALA,Rural,1612,buddhist,females,18
+TAMILNADU,Rural,1569,buddhist,females,32
+TAMILNADU,Urban,3641,buddhist,females,32
+PUDUCHERRY,Urban,189,buddhist,females,28
+ANDAMAN&NICOBARISLANDS,Rural,113,buddhist,females,1
+JAMMU&KASHMIR,Rural,180,jain,males,15
+JAMMU&KASHMIR,Urban,1130,jain,males,15
+HIMACHALPRADESH,Urban,694,jain,males,13
+PUNJAB,Rural,2328,jain,males,29
+CHANDIGARH,Rural,7,jain,males,6
+CHANDIGARH,Urban,990,jain,males,6
+UTTARAKHAND,Urban,4237,jain,males,34
+HARYANA,Rural,1871,jain,males,12
+NCTOFDELHI,Rural,94,jain,males,26
+NCTOFDELHI,Urban,85511,jain,males,26
+RAJASTHAN,Urban,232965,jain,males,30
+UTTARPRADESH,Rural,15852,jain,males,35
+BIHAR,Rural,3950,jain,males,5
+BIHAR,Urban,5793,jain,males,5
+SIKKIM,Urban,95,jain,males,31
+ARUNACHALPRADESH,Rural,268,jain,males,3
+NAGALAND,Rural,230,jain,males,25
+NAGALAND,Urban,1143,jain,males,25
+MANIPUR,Urban,665,jain,males,22
+MIZORAM,Rural,140,jain,males,24
+TRIPURA,Rural,209,jain,males,33
+TRIPURA,Urban,244,jain,males,33
+MEGHALAYA,Urban,185,jain,males,23
+ASSAM,Rural,1520,jain,males,4
+WESTBENGAL,Rural,5780,jain,males,36
+WESTBENGAL,Urban,24938,jain,males,36
+JHARKHAND,Urban,5926,jain,males,16
+ODISHA,Rural,1620,jain,males,27
+CHHATTISGARH,Rural,3209,jain,males,7
+CHHATTISGARH,Urban,28383,jain,males,7
+MADHYAPRADESH,Urban,234506,jain,males,20
+GUJARAT,Rural,22357,jain,males,11
+DAMAN&DIU,Rural,3,jain,males,9
+DAMAN&DIU,Urban,144,jain,males,9
+DADRA&NAGARHAVELI,Urban,597,jain,males,8
+MAHARASHTRA,Rural,140476,jain,males,21
+ANDHRAPRADESH,Rural,2564,jain,males,2
+ANDHRAPRADESH,Urban,24909,jain,males,2
+KARNATAKA,Urban,111946,jain,males,17
+GOA,Rural,57,jain,males,10
+LAKSHADWEEP,Rural,2,jain,males,19
+LAKSHADWEEP,Urban,4,jain,males,19
+PUDUCHERRY,Rural,18,jain,males,28
+PUDUCHERRY,Urban,684,jain,males,28
+ANDAMAN&NICOBARISLANDS,Urban,6,jain,males,1
+JAMMU&KASHMIR,Rural,175,jain,females,15
+HIMACHALPRADESH,Rural,237,jain,females,13
+HIMACHALPRADESH,Urban,623,jain,females,13
+PUNJAB,Urban,19442,jain,females,29
+CHANDIGARH,Rural,6,jain,females,6
+UTTARAKHAND,Rural,511,jain,females,34
+UTTARAKHAND,Urban,3925,jain,females,34
+HARYANA,Urban,23611,jain,females,12
+NCTOFDELHI,Rural,98,jain,females,26
+RAJASTHAN,Rural,81673,jain,females,30
+RAJASTHAN,Urban,222736,jain,females,30
+UTTARPRADESH,Urban,87981,jain,females,35
+BIHAR,Rural,3625,jain,females,5
+SIKKIM,Rural,53,jain,females,31
+SIKKIM,Urban,80,jain,females,31
+ARUNACHALPRADESH,Urban,107,jain,females,3
+NAGALAND,Rural,191,jain,females,25
+MANIPUR,Rural,171,jain,females,22
+MANIPUR,Urban,659,jain,females,22
+MIZORAM,Urban,48,jain,females,24
+TRIPURA,Rural,212,jain,females,33
+MEGHALAYA,Rural,116,jain,females,23
+MEGHALAYA,Urban,169,jain,females,23
+ASSAM,Urban,11068,jain,females,4
+WESTBENGAL,Rural,5183,jain,females,36
+JHARKHAND,Rural,1705,jain,females,16
+JHARKHAND,Urban,5506,jain,females,16
+ODISHA,Urban,3001,jain,females,27
+CHHATTISGARH,Rural,2934,jain,females,7
+MADHYAPRADESH,Rural,52268,jain,females,20
+MADHYAPRADESH,Urban,222823,jain,females,20
+GUJARAT,Urban,262982,jain,females,11
+DAMAN&DIU,Rural,3,jain,females,9
+DADRA&NAGARHAVELI,Rural,26,jain,females,8
+DADRA&NAGARHAVELI,Urban,528,jain,females,8
+MAHARASHTRA,Urban,557709,jain,females,21
+ANDHRAPRADESH,Rural,2600,jain,females,2
+KARNATAKA,Rural,106764,jain,females,17
+KARNATAKA,Urban,107972,jain,females,17
+GOA,Urban,466,jain,females,10
+LAKSHADWEEP,Rural,2,jain,females,19
+KERALA,Rural,1040,jain,females,18
+KERALA,Urban,1224,jain,females,18
+TAMILNADU,Urban,38620,jain,females,32
+PUDUCHERRY,Rural,27,jain,females,28
+ANDAMAN&NICOBARISLANDS,Rural,6,jain,females,1
+ANDAMAN&NICOBARISLANDS,Urban,11,jain,females,1
+JAMMU&KASHMIR,Urban,138,other religion,males,15
+HIMACHALPRADESH,Rural,414,other religion,males,13
+PUNJAB,Rural,3467,other religion,males,29
+PUNJAB,Urban,2268,other religion,males,29
+CHANDIGARH,Urban,138,other religion,males,6
+UTTARAKHAND,Rural,358,other religion,males,34
+HARYANA,Rural,504,other religion,males,12
+HARYANA,Urban,607,other religion,males,12
+NCTOFDELHI,Urban,1131,other religion,males,26
+RAJASTHAN,Rural,1731,other religion,males,30
+UTTARPRADESH,Rural,4906,other religion,males,35
+UTTARPRADESH,Urban,2164,other religion,males,35
+BIHAR,Urban,542,other religion,males,5
+SIKKIM,Rural,8070,other religion,males,31
+ARUNACHALPRADESH,Rural,148506,other religion,males,3
+ARUNACHALPRADESH,Urban,31538,other religion,males,3
+NAGALAND,Urban,106,other religion,males,25
+MANIPUR,Rural,69540,other religion,males,22
+MIZORAM,Rural,222,other religion,males,24
+MIZORAM,Urban,180,other religion,males,24
+ASSAM,Rural,12897,other religion,males,4
+ASSAM,Urban,802,other religion,males,4
+WESTBENGAL,Urban,12152,other religion,males,36
+JHARKHAND,Rural,1936940,other religion,males,16
+ODISHA,Rural,227641,other religion,males,27
+ODISHA,Urban,7966,other religion,males,27
+CHHATTISGARH,Urban,9044,other religion,males,7
+MADHYAPRADESH,Rural,292942,other religion,males,20
+GUJARAT,Rural,2787,other religion,males,11
+GUJARAT,Urban,5575,other religion,males,11
+DAMAN&DIU,Urban,36,other religion,males,9
+DADRA&NAGARHAVELI,Rural,46,other religion,males,8
+MAHARASHTRA,Rural,47080,other religion,males,21
+MAHARASHTRA,Urban,42743,other religion,males,21
+ANDHRAPRADESH,Urban,2979,other religion,males,2
+KARNATAKA,Rural,2556,other religion,males,17
+GOA,Rural,40,other religion,males,10
+GOA,Urban,103,other religion,males,10
+LAKSHADWEEP,Urban,6,other religion,males,19
+KERALA,Rural,1919,other religion,males,18
+TAMILNADU,Rural,1227,other religion,males,32
+TAMILNADU,Urban,2554,other religion,males,32
+PUDUCHERRY,Urban,66,other religion,males,28
+ANDAMAN&NICOBARISLANDS,Rural,250,other religion,males,1
+JAMMU&KASHMIR,Rural,602,other religion,females,15
+JAMMU&KASHMIR,Urban,104,other religion,females,15
+HIMACHALPRADESH,Urban,37,other religion,females,13
+PUNJAB,Rural,3179,other religion,females,29
+CHANDIGARH,Rural,2,other religion,females,6
+CHANDIGARH,Urban,92,other religion,females,6
+UTTARAKHAND,Urban,155,other religion,females,34
+HARYANA,Rural,509,other religion,females,12
+NCTOFDELHI,Rural,12,other religion,females,26
+NCTOFDELHI,Urban,1037,other religion,females,26
+RAJASTHAN,Urban,601,other religion,females,30
+UTTARPRADESH,Rural,4611,other religion,females,35
+BIHAR,Rural,6083,other religion,females,5
+BIHAR,Urban,521,other religion,females,5
+SIKKIM,Urban,282,other religion,females,31
+ARUNACHALPRADESH,Rural,148515,other religion,females,3
+NAGALAND,Rural,1483,other religion,females,25
+NAGALAND,Urban,111,other religion,females,25
+MANIPUR,Urban,47726,other religion,females,22
+MIZORAM,Rural,212,other religion,females,24
+TRIPURA,Rural,594,other religion,females,33
+TRIPURA,Urban,129,other religion,females,33
+MEGHALAYA,Urban,13655,other religion,females,23
+ASSAM,Rural,12646,other religion,females,4
+WESTBENGAL,Rural,460661,other religion,females,36
+WESTBENGAL,Urban,11771,other religion,females,36
+JHARKHAND,Urban,175695,other religion,females,16
+ODISHA,Rural,234213,other religion,females,27
+CHHATTISGARH,Rural,241955,other religion,females,7
+CHHATTISGARH,Urban,8477,other religion,females,7
+MADHYAPRADESH,Urban,3557,other religion,females,20
+GUJARAT,Rural,2731,other religion,females,11
+DAMAN&DIU,Rural,3,other religion,females,9
+DAMAN&DIU,Urban,34,other religion,females,9
+DADRA&NAGARHAVELI,Urban,110,other religion,females,8
+MAHARASHTRA,Rural,46567,other religion,females,21
+ANDHRAPRADESH,Rural,1874,other religion,females,2
+ANDHRAPRADESH,Urban,2858,other religion,females,2
+KARNATAKA,Urban,3044,other religion,females,17
+GOA,Rural,28,other religion,females,10
+LAKSHADWEEP,Rural,0,other religion,females,19
+LAKSHADWEEP,Urban,1,other religion,females,19
+KERALA,Urban,1846,other religion,females,18
+TAMILNADU,Rural,1360,other religion,females,32
+PUDUCHERRY,Rural,17,other religion,females,28
+PUDUCHERRY,Urban,63,other religion,females,28
+HIMACHALPRADESH,Rural,3678,do not know,males,13
+HIMACHALPRADESH,Urban,460,do not know,males,13
+PUNJAB,Urban,21847,do not know,males,29
+CHANDIGARH,Rural,7,do not know,males,6
+UTTARAKHAND,Rural,4105,do not know,males,34
+UTTARAKHAND,Urban,2048,do not know,males,34
+HARYANA,Urban,11568,do not know,males,12
+NCTOFDELHI,Rural,169,do not know,males,26
+RAJASTHAN,Rural,24644,do not know,males,30
+RAJASTHAN,Urban,12303,do not know,males,30
+UTTARPRADESH,Urban,104744,do not know,males,35
+BIHAR,Rural,110251,do not know,males,5
+SIKKIM,Rural,775,do not know,males,31
+SIKKIM,Urban,99,do not know,males,31
+ARUNACHALPRADESH,Urban,663,do not know,males,3
+NAGALAND,Rural,997,do not know,males,25
+MANIPUR,Rural,3727,do not know,males,22
+MANIPUR,Urban,1562,do not know,males,22
+MIZORAM,Urban,309,do not know,males,24
+TRIPURA,Rural,1679,do not know,males,33
+MEGHALAYA,Rural,4290,do not know,males,23
+MEGHALAYA,Urban,492,do not know,males,23
+ASSAM,Urban,3978,do not know,males,4
+WESTBENGAL,Rural,45525,do not know,males,36
+JHARKHAND,Rural,27491,do not know,males,16
+JHARKHAND,Urban,6884,do not know,males,16
+ODISHA,Urban,10089,do not know,males,27
+CHHATTISGARH,Rural,9045,do not know,males,7
+MADHYAPRADESH,Rural,33673,do not know,males,20
+MADHYAPRADESH,Urban,14502,do not know,males,20
+GUJARAT,Urban,17582,do not know,males,11
+DAMAN&DIU,Rural,28,do not know,males,9
+DADRA&NAGARHAVELI,Rural,148,do not know,males,8
+DADRA&NAGARHAVELI,Urban,130,do not know,males,8
+MAHARASHTRA,Urban,68142,do not know,males,21
+ANDHRAPRADESH,Rural,92203,do not know,males,2
+KARNATAKA,Rural,34312,do not know,males,17
+KARNATAKA,Urban,46837,do not know,males,17
+GOA,Urban,1031,do not know,males,10
+LAKSHADWEEP,Rural,13,do not know,males,19
+KERALA,Rural,21538,do not know,males,18
+KERALA,Urban,21429,do not know,males,18
+TAMILNADU,Urban,55280,do not know,males,32
+PUDUCHERRY,Rural,130,do not know,males,28
+ANDAMAN&NICOBARISLANDS,Rural,268,do not know,males,1
+ANDAMAN&NICOBARISLANDS,Urban,58,do not know,males,1
+JAMMU&KASHMIR,Urban,2387,do not know,females,15
+HIMACHALPRADESH,Rural,3554,do not know,females,13
+PUNJAB,Rural,21399,do not know,females,29
+PUNJAB,Urban,22437,do not know,females,29
+CHANDIGARH,Urban,509,do not know,females,6
+UTTARAKHAND,Rural,3696,do not know,females,34
+HARYANA,Rural,8714,do not know,females,12
+HARYANA,Urban,12074,do not know,females,12
+NCTOFDELHI,Urban,5897,do not know,females,26
+RAJASTHAN,Rural,19706,do not know,females,30
+UTTARPRADESH,Rural,180594,do not know,females,35
+UTTARPRADESH,Urban,94333,do not know,females,35
+BIHAR,Urban,19578,do not know,females,5
+SIKKIM,Rural,858,do not know,females,31
+ARUNACHALPRADESH,Rural,2543,do not know,females,3
+ARUNACHALPRADESH,Urban,917,do not know,females,3
+NAGALAND,Urban,261,do not know,females,25
+MANIPUR,Rural,3783,do not know,females,22
+MIZORAM,Rural,193,do not know,females,24
+MIZORAM,Urban,317,do not know,females,24
+TRIPURA,Urban,983,do not know,females,33
+MEGHALAYA,Rural,4339,do not know,females,23
+ASSAM,Rural,21930,do not know,females,4
+ASSAM,Urban,4040,do not know,females,4
+ODISHA,Rural,28980,do not know,females,27
+ODISHA,Urban,9057,do not know,females,27
+CHHATTISGARH,Urban,2510,do not know,females,7
+MADHYAPRADESH,Rural,34242,do not know,females,20
+GUJARAT,Rural,11445,do not know,females,11
+GUJARAT,Urban,14916,do not know,females,11
+DAMAN&DIU,Urban,63,do not know,females,9
+DADRA&NAGARHAVELI,Rural,128,do not know,females,8
+MAHARASHTRA,Rural,74068,do not know,females,21
+MAHARASHTRA,Urban,62015,do not know,females,21
+ANDHRAPRADESH,Urban,112267,do not know,females,2
+KARNATAKA,Rural,34619,do not know,females,17
+GOA,Rural,715,do not know,females,10
+GOA,Urban,709,do not know,females,10
+LAKSHADWEEP,Urban,16,do not know,females,19
+KERALA,Rural,22789,do not know,females,18
+TAMILNADU,Rural,35181,do not know,females,32
+TAMILNADU,Urban,64521,do not know,females,32
+PUDUCHERRY,Urban,988,do not know,females,28
+ANDAMAN&NICOBARISLANDS,Rural,285,do not know,females,1
